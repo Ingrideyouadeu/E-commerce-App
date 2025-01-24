@@ -1,4 +1,4 @@
-# E-Commerce Fruit App 🍎🍌🛒  
+# Shopping Fruit App 🍎🍌🛒  
 
 This project is an e-commerce app where users can browse a variety of fruits, add their desired items to a cart, and even view nearby stores offering these fruits. The app offers a seamless shopping experience with detailed product information and quantity selection.  
 
